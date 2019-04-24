@@ -1,10 +1,12 @@
-# Título del trabajo
+# Sala De Minijuegos 
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Hemos creado un programa en el que puedes elegir entre distintos juegos a los que jugar como por ejemplo: el tres en raya, 
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Raúl Molano Ortiz - raulmolano 
+Adrián Sánchez Molina -	adriansanchez00 
+Iván Valenzuela Domínguez - Iván 
 
 ## Objetivos del trabajo
 
